@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Записная книжка в SharedPreferences</string>
-    <string name="save">Save</string>
-    <string name="input_note">Input Note</string>
+    <string name="save">Сохранить</string>
+    <string name="input_note">Введите заметку</string>
 </resources>
