@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notebook with SharedPreferences</string>
+    <string name="save">Save</string>
+    <string name="input_note">Input Note</string>
+</resources>
